@@ -1,0 +1,180 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Genos:ital,wght@0,100..900;1,100..900&family=LXGW+Marker+Gothic&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+/* *{
+     font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+} */
+.custom{
+      background: linear-gradient(to right, white, pink, white);
+  border-bottom: 1px solid #e0e0e0;
+}
+.color{
+    color: rgb(192, 23, 116) !important;
+}
+.nav-link{
+    color: rgb(224, 33, 138) !important;
+   font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold !important;
+  font-style: normal;
+  font-size: 50px;
+}
+.nav-link:hover{
+    border-bottom: 2px solid rgb(167, 7, 73);
+    color: rgb(167, 7, 73) !important;
+    animation:0.6 ease-in-out;
+}
+.border-radius{
+    border-radius: 6px;
+}
+.navbar-brand:hover{
+    color: rgb(192, 23, 116) !important;
+}
+
+.logo{
+object-fit: scale-down;
+margin-left: -50px;
+width: 60px;
+height: 100px;
+}
+.logo-name{
+    margin-left: -100px;
+    color: rgb(224, 33, 138);
+}
+.digitizing{
+    margin-top: 25px;
+    margin-left: -135px;
+    color: rgb(224, 33, 138);
+    letter-spacing: 4px !important;
+}
+.machine{
+    position: absolute;
+    margin-left: -200px;
+    width: 1435px;
+    height: 525px;
+    opacity: 0.6;
+}
+.brand{
+    position: relative;
+}
+.punch{
+    color: rgb(167, 7, 73);
+    position: relative;
+}
+.brand1{
+    position: relative;
+    letter-spacing: 10px;
+    font-weight: 400 !important;
+}
+.brand2{
+    margin-top: -90px;
+    position: relative;
+}
+.brand3{
+    position: relative;
+}
+.punch1{
+    color: rgb(167, 7, 73);
+    margin-top: 150px;
+}
+
+.services{
+    margin-top: 200px;
+       font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold !important;
+  font-style: normal;
+  font-size: 30px;
+  color: rgb(224, 33, 138);
+}
+
+ol{
+    list-style: circle;
+    cursor: pointer;
+}
+
+.rounded-circle{
+    background-color: pink;
+    padding: 20px;
+}
+
+.about{
+         font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold !important;
+  font-style: normal;
+  font-size: 30px;
+  color: rgb(224, 33, 138);
+}
+.btn{
+    background-color: rgb(224, 33, 138) !important;
+    color: white !important;
+    border: 1px solid rgb(224, 33, 138) !important;
+}
+.btn:hover{
+    background-color: transparent !important;
+    color: rgb(224, 33, 138) !important;
+    border: 1px solid rgb(224, 33, 138) !important;
+}
+
+.img-digit{
+    opacity: 0.4;
+}
+
+
+/* Digitizing Service */
+.brand3{
+    margin-top: 70px;
+}
+.logo-section{
+    margin-top: 300px !important;
+    font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold !important;
+  font-style: normal;
+  font-size: 30px;
+  color: rgb(224, 33, 138);
+}
+.logo-section1{
+    color: rgb(224, 33, 138);
+    font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold !important;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.logo-section2{
+      color: rgb(224, 33, 138);
+    font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold !important;
+  font-style: normal;
+  font-size: 20px !important;
+  margin-top: 500px !important;
+}
+
+
+.web-bg{
+    margin: -115px;
+}
+
+.card-title{
+    color: rgb(224, 33, 138) !important;
+      font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold !important;
+  font-style: normal;
+}
+.custom-border{
+    width: 350px !important;
+     color: rgb(224, 33, 138) !important;
+      font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold !important;
+  font-style: normal;
+height: 270px !important;
+}
+
